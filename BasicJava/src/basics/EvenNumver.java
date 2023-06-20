@@ -26,6 +26,7 @@ public class EvenNumver {
 		System.out.println("The number is Even : "+isEvenNum(23));
 		getEvenNumber(23);
 		//1st pull
+		//2nd push
 	}
 
 }
